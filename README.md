@@ -9,7 +9,7 @@ A DIY and open source approach to the Nohrd WaterRower using Arduino and spare p
 
 ## WaterRino
 
-The arduino code is derived from the yun_rower project that Giordano Bianchi published on: https://bitbucket.org/giobianchi/yun_rower/src/master/
+The [arduino code](https://github.com/adruino-io/waterrino/blob/master/WaterRino.ino) is derived from the [yun_rower](https://bitbucket.org/giobianchi/yun_rower/src/master/) project by Giordano Bianchi.
 
 Improvements include:
 * moving average (gliding)
