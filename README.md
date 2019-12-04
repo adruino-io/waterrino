@@ -27,6 +27,7 @@ Future changes will include:
 The DIY rower is derived from the Nohrd WaterRower (same dimensions) and uses the same mode of action for generating resistance (water tank).
 
 Future changes will include:
+- [ ] Uploading translated version of the build instruction
 - [ ] Replacing Nohrd spare parts with off-the-shelf/DIY components
 - [ ] Increasing sturdiness of design (e.g. mounting tank to top assembly)
 - [ ] Replacing hand drawn notes in the assembly instruction
