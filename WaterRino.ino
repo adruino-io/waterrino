@@ -1,5 +1,5 @@
 #include <LiquidCrystal.h>
-#include <RunningAverage.h>
+#include <RunningAverage.h> // https://github.com/RobTillaart/Arduino/tree/master/libraries/RunningAverage
 
 #define btnRIGHT  0
 #define btnUP     1
