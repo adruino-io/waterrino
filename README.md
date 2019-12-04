@@ -1,6 +1,6 @@
 # WaterRino
 
-## History
+## Overview
 
 A DIY and open source approach to the Nohrd WaterRower using Arduino and spare parts easily available. This project consists of two parts:
 
