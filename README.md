@@ -12,7 +12,8 @@ A DIY and open source approach to the Nohrd WaterRower using Arduino and spare p
 The [arduino code](https://github.com/adruino-io/waterrino/blob/master/WaterRino.ino) is derived from the [yun_rower](https://bitbucket.org/giobianchi/yun_rower/src/master/) project by Giordano Bianchi.
 
 Improvements include:
-* moving average (gliding)
+* [moving average](https://github.com/RobTillaart/Arduino/tree/master/libraries/RunningAverage
+) (gliding)
 * utilising LCD 1602 (16x2) Keypad Shield for variable output (strokes (per minute/average (overall/gliding)), rpm, total strokes, etc.)
 * migrating to Arduino Uno
 
