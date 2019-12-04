@@ -4,7 +4,7 @@
 
 A DIY and open source approach to the [Nohrd WaterRower](https://www.nohrd.com/us/waterrower/) using Arduino and spare parts easily available. This project consists of two parts:
 
-1. WaterRino (Ardunio rowing monitor)
+1. [WaterRino](https://github.com/adruino-io/waterrino/blob/master/WaterRino.ino) (Ardunio rowing monitor)
 2. [DIY rower](https://github.com/adruino-io/waterrino/blob/master/WaterRino_german.pdf)
 
 ## WaterRino
