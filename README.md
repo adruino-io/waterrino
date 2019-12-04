@@ -2,7 +2,7 @@
 
 ## Overview
 
-A DIY and open source approach to the Nohrd WaterRower using Arduino and spare parts easily available. This project consists of two parts:
+A DIY and open source approach to the [Nohrd WaterRower](https://www.nohrd.com/us/waterrower/) using Arduino and spare parts easily available. This project consists of two parts:
 
 1. WaterRino (Ardunio rowing monitor)
 2. [DIY rower](https://github.com/adruino-io/waterrino/blob/master/WaterRino_german.pdf)
@@ -25,10 +25,10 @@ Future changes will include:
 
 ### DIY rower
 
-The DIY rower is derived from the Nohrd WaterRower (similar dimensions) and uses the same mode of action for generating resistance (water tank). The build instruction can be found [here](https://github.com/adruino-io/waterrino/blob/master/WaterRino_german.pdf).
+The DIY rower is derived from the Nohrd WaterRower (similar dimensions) and uses the same mode of action for generating resistance (water tank). The construction manual can be found [here](https://github.com/adruino-io/waterrino/blob/master/WaterRino_german.pdf).
 
 Future changes will include:
-- [ ] Uploading translated version of the build instruction
+- [ ] Uploading translated version of the construction manual
 - [ ] Replacing Nohrd spare parts with off-the-shelf/DIY components
 - [ ] Increasing sturdiness of design (e.g. mounting tank to top assembly)
 - [ ] Replacing hand drawn notes in the assembly instruction
